@@ -1,0 +1,19 @@
+# environments
+.venv
+
+# vscode
+.vscode
+
+# folders
+data/**
+results/**
+figures/**
+
+# files
+*.pt
+*.pth
+*.png
+*.xlsx
+*.npy
+
+__pycache__

@@ -1,0 +1,15 @@
+matplotlib
+pandas
+sklearn
+pillow
+numpy
+tqdm
+torchsummary
+pycocotools
+docopt
+scikit-image
+torch-scatter -f https://pytorch-geometric.com/whl/torch-1.10.2+cu111.html
+torch-sparse -f https://pytorch-geometric.com/whl/torch-1.10.2+cu111.html
+torch-cluster -f https://pytorch-geometric.com/whl/torch-1.10.2+cu111.html
+torch-spline-conv -f https://pytorch-geometric.com/whl/torch-1.10.2+cu111.html
+torch-geometric
