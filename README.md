@@ -1,5 +1,5 @@
-# conic-challenge-inescteam
-Repository containing source code, papers, and other materials used in our solutions for the Colon Nuclei Identification and Counting (CoNIC) Challenge.
+# A Survey on Cell Nuclei Instance Segmentation and Classification: Leveraging Context and Attention
+Repository containing source code for the case study of the paper
 
 The authors would like to aknowledge the contribution of the following authors, since it contains pieces of code from their open-source work:
 
